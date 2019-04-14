@@ -13,7 +13,7 @@
 ## 벌금 현황판
 
 <details>
-<summary>7기</summary>
+<summary>벌금 현황판</summary>
 
 - [7기](./7th.md)
 </details>
